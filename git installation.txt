@@ -146,6 +146,8 @@ to push to the github
 12)git checkout master
 13)git push origin master
 ---------------------------------------------
+to save==> :wq 
+to create  new file in gitbash ==>touch filename.type
 
 
  
